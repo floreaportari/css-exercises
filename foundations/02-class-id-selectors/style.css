@@ -1,0 +1,22 @@
+body {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.parag-class {
+  background-color: pink;
+}
+
+#num_2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.parag-class.num-3 {
+  font-size: 24px;
+}
+
+#num_4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
